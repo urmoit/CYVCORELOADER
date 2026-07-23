@@ -1,0 +1,9 @@
+{
+  "apps": {
+    "roblox_external": {
+      "status": "down",
+      "message": "Roblox External is currently down for a full rewrite.\n\nWe're rebuilding the entire tool from the ground up with better features, improved performance, and a modern interface. Stay tuned for updates.\n\nThank you for your patience!",
+      "message_type": "warning"
+    }
+  }
+}
